@@ -1,0 +1,11 @@
+D:/C++/RayTracinginoneweekend/cmake-build-debug/CMakeFiles/test_ppm_image.dir
+D:/C++/RayTracinginoneweekend/cmake-build-debug/CMakeFiles/test_vec3_color.dir
+D:/C++/RayTracinginoneweekend/cmake-build-debug/CMakeFiles/test_ray.dir
+D:/C++/RayTracinginoneweekend/cmake-build-debug/CMakeFiles/test_normal.dir
+D:/C++/RayTracinginoneweekend/cmake-build-debug/CMakeFiles/test_hittables.dir
+D:/C++/RayTracinginoneweekend/cmake-build-debug/CMakeFiles/test_diffuse.dir
+D:/C++/RayTracinginoneweekend/cmake-build-debug/CMakeFiles/test_material.dir
+D:/C++/RayTracinginoneweekend/cmake-build-debug/CMakeFiles/test_wide_camera.dir
+D:/C++/RayTracinginoneweekend/cmake-build-debug/CMakeFiles/final_render.dir
+D:/C++/RayTracinginoneweekend/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/RayTracinginoneweekend/cmake-build-debug/CMakeFiles/rebuild_cache.dir

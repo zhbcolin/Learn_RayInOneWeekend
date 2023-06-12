@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RayTracinginoneweekend",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "final_render::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-final_render-Debug-6ce2884a87982384c5fc.json",
+					"name" : "final_render",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_diffuse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_diffuse-Debug-74d5f4629a07009c61ef.json",
+					"name" : "test_diffuse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_hittables::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_hittables-Debug-4ad18c628a2833586fa8.json",
+					"name" : "test_hittables",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_material::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_material-Debug-00882d8d25e7f61a6843.json",
+					"name" : "test_material",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_normal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_normal-Debug-915192a9b727b6ba1130.json",
+					"name" : "test_normal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_ppm_image::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_ppm_image-Debug-83266325671b16f08a87.json",
+					"name" : "test_ppm_image",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_ray::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_ray-Debug-a647aea69264bffd2c58.json",
+					"name" : "test_ray",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_vec3_color::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_vec3_color-Debug-c29bc0cd18f175c0ce4c.json",
+					"name" : "test_vec3_color",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_wide_camera::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_wide_camera-Debug-d84622bde03e3442f4e0.json",
+					"name" : "test_wide_camera",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/C++/RayTracinginoneweekend/cmake-build-debug",
+		"source" : "D:/C++/RayTracinginoneweekend"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

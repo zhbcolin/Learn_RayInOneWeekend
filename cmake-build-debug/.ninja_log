@@ -1,0 +1,21 @@
+# ninja log v5
+2	252	7079384228258291	CMakeFiles/ppm_image.dir/src/ppm_image.cpp.obj	fc15f3c2ec5e6f74
+252	327	7079384228985925	D:/C++/RayTracinginoneweekend/bin/ppm_image.exe	12bd633114545072
+3	1151	7082106860134069	CMakeFiles/test_wide_camera.dir/test/test_wide_camera.cpp.obj	19bc1e47956717db
+821	883	7080127670540303	D:/C++/RayTracinginoneweekend/bin/test_normal.exe	dd70c2cc5dc7fda7
+2	270	7080097818689159	CMakeFiles/test_vec3_color.dir/test/test_vec3_color.cpp.obj	a8a33dbdfd563c8
+3	821	7080127669951481	CMakeFiles/test_normal.dir/test/test_normal.cpp.obj	9ca82f6d606b5e4f
+270	332	7080097819287998	D:/C++/RayTracinginoneweekend/bin/test_vec3_color.exe	8c426e4f2fc422cf
+2	276	7080113374210789	CMakeFiles/test_ray.dir/test/test_ray.cpp.obj	c70cddd16f09ae22
+276	340	7080113374804941	D:/C++/RayTracinginoneweekend/bin/test_ray.exe	f1dea228a6bb223e
+1	395	7081718977362183	CMakeFiles/test_hittables.dir/src/all_headers.cpp.obj	60b9d482575372bc
+2	1195	7081770552815421	CMakeFiles/test_hittables.dir/test/test_hittables.cpp.obj	11b5ffb66375a3c1
+1195	1273	7081770553572885	D:/C++/RayTracinginoneweekend/bin/test_hittables.exe	146f689ecc42244a
+2	1054	7081781748671939	CMakeFiles/test_diffuse.dir/test/test_diffuse.cpp.obj	9d2120179053d82b
+1	87	7082119793740879	build.ninja	cb44d1005ef29545
+1055	1137	7081781749450434	D:/C++/RayTracinginoneweekend/bin/test_diffuse.exe	d5fa0ff5314b7ca4
+3	1205	7081877826610732	CMakeFiles/test_material.dir/test/test_material.cpp.obj	f228639052444cdc
+1205	1329	7081877827789602	D:/C++/RayTracinginoneweekend/bin/test_material.exe	cef05b9d652eac54
+1152	1269	7082106861293776	D:/C++/RayTracinginoneweekend/bin/test_wide_camera.exe	711176bc2cfd94e8
+1	1340	7082139743441778	CMakeFiles/final_render.dir/main.cpp.obj	979f5bdfd705b2bb
+1340	1467	7082139744678952	D:/C++/RayTracinginoneweekend/bin/final_render.exe	e5bf6ed4a3a9b224
